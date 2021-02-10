@@ -1,0 +1,11 @@
+.App{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.column{
+    width: 50%;
+    height: 100vh;
+    border-right: solid 1.5px #535353;
+}
